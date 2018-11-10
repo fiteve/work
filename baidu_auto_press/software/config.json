@@ -1,0 +1,7 @@
+{
+"searchWord":["成都 茶艺师", "成都 保育员", "成都 焊工", "成都 电工"],
+"filterWebAddr":["ieeekao", "ieeekao_2"],
+"webStopTime":5, 
+"maxPageNum":3, 
+"currWebNum":10
+}

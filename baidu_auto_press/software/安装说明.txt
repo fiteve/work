@@ -1,0 +1,5 @@
+1.chorome浏览器升级到70版本。
+2.chromedriver.exe 拷贝到chrome.exe的目录
+3.配置chrome.exe的目录到系统环境变量python中。
+4.在cmd下启动baidu_check.exe即可。
+
